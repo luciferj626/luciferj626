@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luciferj626
+- 👋 Hi, I’m @Vedant
 - 👀 I’m interested in coding and hacking.
 - 🌱 I’m currently learning in 10th grade 
 - 💞️ I’m looking to collaborate on ....
